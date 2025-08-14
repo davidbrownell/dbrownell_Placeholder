@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.10"
 
 [[package]]
@@ -13,7 +13,7 @@ wheels = [
 
 [[package]]
 name = "autogitsemver"
-version = "0.8.4"
+version = "0.9.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "dbrownell-common" },
@@ -22,9 +22,9 @@ dependencies = [
     { name = "rtyaml" },
     { name = "semantic-version" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/fb/2a/51f7a1c7c8eacd25215091738fdf40c2818141a1d1120ad18a6812ad5f74/autogitsemver-0.8.4.tar.gz", hash = "sha256:0843769c3aec0eebb647efb7d82e8052ca2305aa67640a6480abd4261c6bc71f", size = 77115, upload-time = "2025-07-12T17:43:33.009Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/cb/9c/c5bc82ec16d90f13ee689a5209a3259119ccff69975efd4411d23a7a0a5b/autogitsemver-0.9.1.tar.gz", hash = "sha256:b2abfcad16c1113ed364aae67f26cb0c172f54114439febf439f171a3b85b0ad", size = 77785, upload-time = "2025-08-06T20:22:49.62Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/74/e8/7bc2268b8348ddc102c54ed1a469922581838dc84298d53fdd2e8a1db9d0/autogitsemver-0.8.4-py3-none-any.whl", hash = "sha256:24263f471618ab44c8781ff53413dddead74c62dfee53379dfa9f18cfdf24142", size = 16664, upload-time = "2025-07-12T17:43:32.002Z" },
+    { url = "https://files.pythonhosted.org/packages/82/56/7329e78eba8ec383f1714c7d3e0ec64c2e7ba8b45e0a8b143af5c7325066/autogitsemver-0.9.1-py3-none-any.whl", hash = "sha256:2eb366c88709f420f48c0b79ca4475536e825ae2778fff675cebc9fa3823ba75", size = 17026, upload-time = "2025-08-06T20:22:48.504Z" },
 ]
 
 [[package]]
@@ -243,6 +243,7 @@ wheels = [
 
 [[package]]
 name = "dbrownell-placeholder"
+version = "0.0.0"
 source = { editable = "." }
 
 [package.dev-dependencies]
