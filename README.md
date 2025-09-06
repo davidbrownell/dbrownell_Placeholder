@@ -4,7 +4,7 @@
 **Package:**
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dbrownell_Placeholder?color=dark-green)](https://pypi.org/project/dbrownell_Placeholder/)
 [![PyPI - Version](https://img.shields.io/pypi/v/dbrownell_Placeholder?color=dark-green)](https://pypi.org/project/dbrownell_Placeholder/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/dbrownell_Placeholder)](https://pypistats.org/packages/dbrownell_Placeholder)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/dbrownell_Placeholder)](https://pypistats.org/packages/dbrownell-placeholder)
 
 **Development:**
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
