@@ -24,6 +24,12 @@
 ## Overview
 TODO: Complete this section
 
+![Screenshot](docs/screenshot.png "A screenshot")
+
+<img width="2042" height="975" alt="screenshot" src="https://github.com/user-attachments/assets/18f62eee-3228-44c3-8c03-5c06a173ad99" />
+
+https://github.com/user-attachments/assets/4235a1b8-9b43-4fbf-b685-382451fe9a64
+
 ### How to use `dbrownell_Placeholder`
 TODO: Complete this section
 
@@ -62,3 +68,5 @@ Additional information can be found at these locations.
 
 ## License
 `dbrownell_Placeholder` is licensed under the <a href="https://choosealicense.com/licenses/MIT/" target="_blank">MIT</a> license.
+
+
